@@ -1,12 +1,21 @@
-Aim:
-Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
+AIM
+To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
 
-Experiment:
-Develop a comprehensive report for the following exercises:
-1.	Explain the foundational concepts of Generative AI. 
-2.	Focusing on Generative AI architectures. (like transformers).
-3.	Generative AI applications.
-4.	Generative AI impact of scaling in LLMs.
+SCENARIO:
+You are part of a content curation team for an educational platform that delivers quick summaries of research papers to undergraduate students. Your task is to summarize a 500-word technical article on "The Basics of Blockchain Technology" using multiple AI platforms and prompting strategies.
+
+Your goal is to determine which combination of prompting technique + platform provides the best summary in terms of:
+
+Accuracy
+
+Coherence
+
+Simplicity
+
+Speed
+
+User experience
 
 
 ~~~
